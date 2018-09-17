@@ -1,0 +1,7 @@
+{
+  "name": "Heroku Button Sample on Rails",
+  "description": "A Static Rails application.",
+  "repository": "https://github.com/avneetmalhotra/test_heroku_button",
+  "logo": "https://qbb.bg/wp-content/uploads/2018/06/test-image-1.png",
+  "keywords": ["rails", "heroku", "test"]
+}
